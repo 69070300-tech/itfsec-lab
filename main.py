@@ -1,4 +1,4 @@
 """lab"""
 def main ():
-    print("hello kub")
+    print("hello kubbbbbbbbbbbbb")
 main()
